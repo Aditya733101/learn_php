@@ -1,4 +1,6 @@
 <?php
-echo "my name is Aditya";
-
+echo "my name is Aditya.<br>";
+ $name = "Aditya";
+ echo $name;
+   
 ?>
